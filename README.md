@@ -1,6 +1,6 @@
 # bitbound-rs
 
-A Rust crate for safe, efficient array access with boundary protection.
+A Rust crate for safe, efficient array access with compile time boundary protection.
 
 ## Overview
 
